@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e20219a4-436f-46b6-9a22-71596f589003" name="cdial" url="http://arcade.iro.umontreal.ca">
+        <fileTransfer host="arcade.iro.umontreal.ca" port="22" rootFolder="/u/zengyan" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
